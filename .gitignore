@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+dist/
+build/
+# *.spec
+.idea/
+.vscode/
+temp_video.mp4
+temp_audio.mp4
+output*.mp4
+*.log
