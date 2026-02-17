@@ -1,4 +1,4 @@
-# Modern YouTube Downloader (TubeFlow)
+# Modern YouTube Downloader
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green)
